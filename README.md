@@ -1,12 +1,12 @@
 # math-ppt-html
 
-> 零依赖，纯 HTML/CSS/JS 即可生成专业数学幻灯片。一个 [Claude Code](https://claude.ai/code) Skill，输入主题即可获得交互式课件。
+> 零依赖，纯 HTML/CSS/JS 即可生成专业数学幻灯片。一个 教学Skill，输入主题即可获得交互式课件。
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-browser-blue" alt="Platform">
   <img src="https://img.shields.io/badge/dependencies-zero-green" alt="Dependencies">
   <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License">
-  <img src="https://img.shields.io/badge/Claude%20Code-Skill-orange" alt="Claude Code Skill">
+  <img src="https://img.shields.io/badge/Claude%20Code-Skill-orange" alt="Skill">
 </p>
 
 ## 这是什么
