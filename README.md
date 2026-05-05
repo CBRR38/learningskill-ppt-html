@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/platform-browser-blue" alt="Platform">
   <img src="https://img.shields.io/badge/dependencies-zero-green" alt="Dependencies">
   <img src="https://img.shields.io/badge/license-MIT-yellow" alt="License">
-  <img src="https://img.shields.io/badge/Claude%20Code-Skill-orange" alt="Skill">
+  <img src="https://img.shields.io/badge/Coding-Skill-orange" alt="Skill">
 </p>
 
 ## 这是什么
