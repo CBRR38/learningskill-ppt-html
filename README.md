@@ -20,6 +20,11 @@
 
 不需要安装 Python、Node.js、LaTeX 或任何运行时——生成的 `.html` 文件双击即开。
 
+<p align="center">
+  <img src="assets/screenshots/demo-slide-1.png" alt="幻灯片示例" width="45%">
+  <img src="assets/screenshots/demo-slide-2.png" alt="可视化示例" width="45%">
+</p>
+
 ## 快速开始
 
 1. 在 Claude Code 中安装本 Skill
